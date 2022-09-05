@@ -1,5 +1,6 @@
 # Who am I ?
 - Hi I'm @me9uj
+- my credit card number are: 1234 5678 1234 5678
 - I'm interested in politcs (my favorite politician is Lionel Jospin)
 > ![lionel jospin](https://user-images.githubusercontent.com/81018727/188304544-ab59f1c9-4165-45a3-8dc7-74d6910767c2.jpg)[^1]
 - **I'm currently learning :**
